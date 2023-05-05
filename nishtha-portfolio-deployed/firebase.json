@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "nishtha-portfolio",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
